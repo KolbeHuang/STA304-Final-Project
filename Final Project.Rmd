@@ -88,49 +88,10 @@ census_data_celled <- read.csv("census_data_celled.csv")
 &nbsp;&nbsp;&nbsp;&nbsp;        In this dataset, I paid most attention to the variables that concern the age, sex, living province, education levels, the birthplace, importance of personal religion and the household income of each respondent (refer to the appendix). To make the dataset more solid, I removed all the observations with attributes that are "Don't know". Also, for the purpose of generality, I regrouped the education levels, importance of religion and ages so that each categorical variable has only two different categories in general. In this way, the census data is more general and clearer for further analysis. Besides, some variables were excluded because they are very similar to the chosen ones or not correspondent to the survey data. For example, the variable "income_respondent" is very similar to the household income and it was not considered because there is no correspondence in the survey data.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;        With the visualization of the selected variables, half of the variables like education and sex have their categories evenly distributed, which means that there is no distinct difference among counts of different levels for each variable. For example, in the plot for sex, the proportion of male is very similar to the proportion of female. However, in the plot for religion_importance, we can see that the number of people who think religion is important is approximately twice as that of people who think religion is not important. Also, there are many more people from Ontario and British Columbia than people from Prince Edward Island. 
+&nbsp;&nbsp;&nbsp;&nbsp;        With the visualization of the selected variables, half of the variables like education and sex have their categories evenly distributed, which means that there is no distinct difference among counts of different levels for each variable. For example, in the plot for sex in Figure 4 and 5, the proportion of male is very similar to the proportion of female. However, in the plot for religion_importance in Figure 4 and 5, we can see that the number of people who think religion is important is approximately twice as that of people who think religion is not important. Also, there are many more people from Ontario and British Columbia than people from Prince Edward Island. 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;        Below is part of the data of selected variables. Refer to Appendix Figure for the whole plots.
-
-```{r, results = "hide", echo=FALSE, message=FALSE, fig.cap= "Census Data Visualization (partial)"}
-#make plot for the ages (group)
-bp1_census <- census_data %>% 
-        group_by(age) %>% 
-        ggplot(aes(y=age))+geom_bar(fill=1)+ggtitle("bar plot for ages")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the sex (group)
-bp2_census <- census_data %>% 
-        group_by(sex) %>% 
-        ggplot(aes(y=sex))+geom_bar(fill=2)+ggtitle("bar plot for sex")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the provinces (group)
-bp3_census <- census_data %>% 
-        group_by(province) %>% 
-        ggplot(aes(y=province))+geom_bar(fill=3)+ggtitle("bar plot for \n provinces")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the place_birth_canada (group)
-bp4_census <- census_data %>% 
-        group_by(place_birth_canada) %>% 
-        ggplot(aes(x=place_birth_canada))+geom_bar(fill=4)+ggtitle("bar plot for place_birth_canada")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the education (group)
-bp5_census <- census_data %>% 
-        group_by(education) %>% 
-        ggplot(aes(y=education))+geom_bar(fill=5)+ggtitle("bar chart plot \n education")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the religion_importance (group)
-bp6_census <- census_data %>% 
-        group_by(religion_importance) %>% 
-        ggplot(aes(x=religion_importance))+geom_bar(fill=6)+ggtitle("bar plot for religion_importance")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the income_family (group)
-bp7_census <- census_data %>% 
-        group_by(income_family) %>% 
-        ggplot(aes(y=income_family))+geom_bar(fill=7)+ggtitle("bar chart for income_family")+theme(plot.title = element_text(hjust = 0.5))
-
-plot_grid(bp1_census, bp2_census, bp3_census, bp4_census, ncol=2, nrow=2)
-```
+&nbsp;&nbsp;&nbsp;&nbsp;        Refer to Appendix Figure 4 and 5 for the whole plots for selected variables in census data.
 
 
 
@@ -146,63 +107,21 @@ plot_grid(bp1_census, bp2_census, bp3_census, bp4_census, ncol=2, nrow=2)
 &nbsp;&nbsp;&nbsp;&nbsp;        In this dataset, I focused on the variables that concern the party to support, age, sex, living province, education levels, the birthplace, importance of personal religion and the household income of each respondent (refer to the appendix). To make the data more suitable for the purpose of analysis, I removed all the observations with attributes that respondents refused to answer or did not know. To simplify the predictor -- party to support, I only focused on the 6 specific parties in the list to gain concrete predictions. To obtain the corresponding age groups like in the census data, I calculated the ages based on the variable "year_of_birth" and regroup the ages. Also, I regrouped the education levels, importance of religion and ages so that each categorical variable has only two different categories in general. In this way, the survey dataset is more general and clearer.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;        With the visualization of the selected variables, we can see that most variables have their own major category, which means that the counts of categories of each variable are not evenly distributed. For example, in the plot for education, around 80% interviewees in the survey dataset have attended university or college. Also, in the plot for vote_party, most people preferred liberal or conservatives, where only a small part of people support other parties. 
+&nbsp;&nbsp;&nbsp;&nbsp;        With the visualization of the selected variables, we can see that most variables have their own major category, which means that the counts of categories of each variable are not evenly distributed. For example, in the plot for education in Figure 6 and 7, around 80% interviewees in the survey dataset have attended university or college. Also, in the plot for vote_party in Figure 6 and 7, most people preferred liberal or conservatives, where only a small part of people support other parties. 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;        Below is part of the data of selected variables. Refer to Appendix Figure for the whole plots.
-
-```{r, results = "hide", echo=FALSE, message=FALSE, fig.cap= "Survey Data Visualization (partial)"}
-#make plot for the ages (group)
-bp1_survey <- survey_data %>% 
-        group_by(age) %>% 
-        ggplot(aes(y=age))+geom_bar(fill=1)+ggtitle("bar chart for ages")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the sex (group)
-bp2_survey <- survey_data %>% 
-        group_by(sex) %>% 
-        ggplot(aes(y=sex))+geom_bar(fill=2)+ggtitle("bar chart for sex")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the provinces (group)
-bp3_survey <- survey_data %>% 
-        group_by(province) %>% 
-        ggplot(aes(y=province))+geom_bar(fill=3)+ggtitle("bar chart for \n provinces")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the place_birth_canada (group)
-bp4_survey <- survey_data %>% 
-        group_by(place_birth_canada) %>% 
-        ggplot(aes(x=place_birth_canada))+geom_bar(fill=4)+ggtitle("bar chart for place_birth_canada")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the education (group)
-bp5_survey <- survey_data %>% 
-        group_by(education) %>% 
-        ggplot(aes(y=education))+geom_bar(fill=5)+ggtitle("bar chart for \n education")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the religion_importance (group)
-bp6_survey <- survey_data %>% 
-        group_by(religion_importance) %>% 
-        ggplot(aes(x=religion_importance))+geom_bar(fill=6)+ggtitle("bar chart for religion_importance")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the income_family (group)
-bp7_survey <- survey_data %>% 
-        group_by(income_family) %>% 
-        ggplot(aes(y=income_family))+geom_bar(fill=7)+ggtitle("bar chart for \n income_family")+theme(plot.title = element_text(hjust = 0.5))
-
-#make plot for the income_family (group)
-bp8_survey <- survey_data %>% 
-        group_by(vote_party) %>% 
-        ggplot(aes(y=vote_party))+geom_bar(fill=8)+ggtitle("bar chart for vote_party")+theme(plot.title = element_text(hjust = 0.5))
-
-plot_grid(bp1_survey, bp2_survey, bp3_survey, bp4_survey, ncol=2,nrow=2)
-```
+&nbsp;&nbsp;&nbsp;&nbsp;        Refer to Appendix Figure 6 and 7 for the whole plots for selected variables in survey data.
 
 
-\newpage
 
 
 ##  Model
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;        In this study, the goal is to investigate the possible results of 2019 Canadian Federal Election if "everyone" had voted and the potential importance of turnout. Here, I define "everyone" to be every Canadian that is 18 years old or older and is eligible for voting. Also, I assume that in this study, every individual must vote for one of the six parties: Liberal, Conservatives, NDP, Green Party, Bloc Québécois and People's Party, which simplifies the modeling. The goal would be achieved by building six logistic regression models based on the survey data and applying a post-stratification technique for each model on the census data. In the following subsections, I would describe and explain the process of building and selecting the final models along with the application of the post-stratification technique.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;        I run my code in the Rstudio.
 
 
 ### Model Specifies
@@ -295,7 +214,7 @@ log(\frac{p_6}{1-p_6}) = \beta_{06} +\beta_{16}x_{province:British\hspace{0.5ex}
 &nbsp;&nbsp;&nbsp;&nbsp;            Let's take the Liberal Party as an example. In the equation (1), on the left hand side, $p_1$ represents the proportion of voters who would vote for the Liberal Party and $log\frac{p_1}{1-p_1}$ represents the logodds of the proportion of voters who would vote for the Liberal Party. On the right hand side, $\beta_{01}$ is the intercept of the model which represents the logodds of probability of voting for the Liberal Party if the voter is a femle between 30 and 50 years old who was born in Canada and is living in Alberta. Besides, $\beta_{141}$ represents the expected change of logodds of probability of voting for the Liberal Party for a voter born outside Canada ($x_{place\_birth\_canada:Born\hspace{0.5ex}  outside\hspace{0.5ex}Canada}=1$) compared to a voter born in Canada ($x_{place\_birth\_canada:Born\hspace{0.5ex}  outside\hspace{0.5ex}Canada}=0$), with all the other variables (age, sex, province) fixed. The other coefficients have similar meanings as the first two coefficients $\beta_{01}, \beta_{141}$ described above. Notice that at the end of the subscript of each coefficient in equation (1), there is a 1, which is used to make distinction from the similar coefficients in the other models.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;            At last, I justified the logistic models with their Areas Under the Curve (AUC) value and Receiver Operating Characteristic (ROC) curves in the Figure to check their binary classification abilities. In the Figure, I plotted sensitivity rate against false positive rate for each threshold. Suppose a model is very good at detecting true positives, then the false positive rate would be 0 and the true positive rate would be 1, which would produce an upper-triangular curve with AUC = 1. However, if the classification ability of a model is weak, then its curve would be close to the 45 degree line with AUC = 0.5. From the Figure below, we can see that the trends of ROC curves indicate that our models all have a relatively good classification ability.
+&nbsp;&nbsp;&nbsp;&nbsp;            At last, I justified the logistic models with their Areas Under the Curve (AUC) value and Receiver Operating Characteristic (ROC) curves in the Figure 1 to check their binary classification abilities. In the Figure 1, I plotted sensitivity rate against false positive rate for each threshold. Suppose a model is very good at detecting true positives, then the false positive rate would be 0 and the true positive rate would be 1, which would produce an upper-triangular curve with AUC = 1. However, if the classification ability of a model is weak, then its curve would be close to the 45 degree line with AUC = 0.5. From the Figure 1 below, we can see that the trends of ROC curves indicate that our models all have a relatively good classification ability.
 
 
 
@@ -453,7 +372,7 @@ where $\hat{y}_j$ is the estimated proportion of voters for a specific party in 
 &nbsp;&nbsp;&nbsp;&nbsp;            The post-stratification technique could help to reduce the bias of representativeness in the population by accounting for non-major groups with non-probability based sampling. With post-stratification, the groups that were underrepresented groups would correctly contribute to the final result and the variance in the prediction would reduce.
 
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;            All variables described can be referred to Table 4 in Appendix.
 
 
 
@@ -488,7 +407,7 @@ log(\frac{p_1}{1-p_1}) = -1.8854 + 0.2864 x_{age:50-70}+ 0.6612x_{age: 70+} -0.2
 &nbsp;&nbsp;&nbsp;&nbsp;            In this model for the Liberal Party, $\beta_{01}=-1.8854$ represents that the logodds of the proportion of voters for the Liberal Party would be $-1.8854$ if voters are all females between 30 and 50 years old who were born in Canada and are living in Alberta. $\beta_{30-}=-0.2020$ means that the expected change of the logodds of the proportion of voters for the Liberal Party would be -0.2020 for voters younger than 30 years old compared to voters between 30 and 50 years old, with all other variables fixed. $\beta_{101}=1.3851$ represents that the expected change of the logodds of the proportion of voters for the Liberal Party would be 1.3851 for voters living in Ontario compared to voters living in Alberta, with all other variables fixed. $\beta_{141} = 0.8942$ means that the expected change of the logodds of the proportion of voters for the Liberal Party would be 0.8942 for voter born outside Canada compared to voters born in Canada, with all other variables fixed. The other coefficients have similar meanings as the coefficients described above.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;            The other logistic models for the other parties are very similar to the one described above. With these logistic models, I finally reached the proportions of voters for each party in the population level if "everyone" had voted. It is summarized in the Table below. 
+&nbsp;&nbsp;&nbsp;&nbsp;            The other logistic models for the other parties are very similar to the one described above. With these logistic models, I finally reached the proportions of voters for each party in the population level if "everyone" had voted. It is summarized in the Table 2 below. 
 
 ```{r, echo=FALSE, message=FALSE, fig.cap= "Estimated Proportion of Parties"}
 parties <- c("Liberal", "Conservatives", "NDP", "Bloc Québécois", "Green Party", "People' Party")
@@ -506,7 +425,7 @@ final_proportion
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;            The proportions in the Table and Figure are the estimated population-level proportions of voters for different parties if "everyone" had voted, which came from the combination of multiple ligistic models and the post-stratification. For example, it is estimated that in total 37.9323% Canadian would vote for the Conservatives if "everyone" had voted, which is based off our post-stratification analysis of the proportion of voters in favour of the Conservatives modelled by a logistic regression model, which accounted for sex, province, religion importance and birthplace.
+&nbsp;&nbsp;&nbsp;&nbsp;            The proportions in the Table 2 and Figure 2 are the estimated population-level proportions of voters for different parties if "everyone" had voted, which came from the combination of multiple ligistic models and the post-stratification. For example, it is estimated that in total 37.9323% Canadian would vote for the Conservatives if "everyone" had voted, which is based off our post-stratification analysis of the proportion of voters in favour of the Conservatives modelled by a logistic regression model, which accounted for sex, province, religion importance and birthplace.
 
 
 
@@ -547,7 +466,7 @@ knitr::kable(final_result, caption = "Estimated Proportion of Parties", col.name
 &nbsp;&nbsp;&nbsp;&nbsp;            As mentioned above, the survey dataset came from the 2019 Canadian Election Study (CES) by phone interviewing and online survey in two phases and the census dataset came from the General Social Survey (GSS) in Statistics Canada where the data was also collected by phone calls. Even I made my efforts to clean the two datasets, there are still some biases and drawbacks there. First, the two datasets were actually collected in different years. According to the guide books, the survey data from CES was collected on October 2019 while the census data from GSS was collected from February to November in 2017. This mismatch of time means that the models trained on the survey dataset are actually inappropriate for predictions on the census data, since the census dataset does not contain the same attributes for its observations. Depending on the economic and political changes from 2017 to 2019 in Canada, my conclusion of this study might be much biased. Second, my cleaning procedures might also cause some potential biases in the data. During the cleaning, I removed all the observations that said "Don't know" or "Spoil ballet" in the question about the supporting party. However, there might be other ways to refer to their choices or I could weight the known observations to correct the biases. Third, the census dataset is actually not large enough. With only 20602 observations inside, the census dataset might miss some people with specific characteristics. For example, because of the sampling frame, people without a landline and wireless phone could not get interviewed. The initial bias of the census data could also affect my study result. Finally, when I selected the predictor variables, I thought some variables such as "employment status" were also significant. However, I did not select those variables in the end because they did not occur in the both datasets, which is resulted from the questions posted in each survey study.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;            Another drawback about the data is my choice of predictor variables. The selection of predictor variables only depended on the AIC selection, which was supported by statistics. However, in the census data, some variables are actually evenly distributed among their categories, which means that the selection of them lacks the support from the social science.
+&nbsp;&nbsp;&nbsp;&nbsp;            Another drawback about the data is my choice of predictor variables. The selection of predictor variables only depended on the AIC selection, which was supported by statistics. However, in the census data in Figure 3, some variables are actually evenly distributed among their categories, which means that the selection of them lacks the support from the social science.
 
 ```{r, echo=FALSE, message=FALSE, fig.cap= "Parts of the census data"}
 #make plot for the sex (group)
@@ -858,19 +777,6 @@ census_data_celled %>%
 
 # Appendix
 
-
-```{r, results = "hide", echo=FALSE, message=FALSE, fig.cap= "Census Data Visualization"}
-plot_grid(bp1_census, bp2_census, bp3_census, bp4_census, ncol=2, nrow=2)
-plot_grid(bp5_census, bp6_census, bp7_census, ncol=2, nrow=2)
-```
-
-```{r, results = "hide", echo=FALSE, message=FALSE, fig.cap= "Survey Data Visualization"}
-plot_grid(bp1_survey, bp2_survey, bp3_survey, bp4_survey, ncol=2,nrow=2)
-plot_grid(bp5_survey, bp6_survey, bp7_survey, bp8_survey, ncol=2,nrow=2)
-```
-
-
-
 ```{r, echo=FALSE}
 names <- c("age", "sex", "province", "education", "place_birth_canada", "religion_importance", "income_family", "vote_party")
 types <- c("categorical", "categorical", "categorical","categorical", "categorical", "categorical", "categorical", "categorical")
@@ -878,6 +784,109 @@ number_categories <- c(4, 2, 13, 2, 2, 2, 6, 6)
 meanings <- c("the age groups", "male or female in biological sense", "living places by provinces of Canada", "education levels: go to university/college or not", "born in Canada or outside Canada", "whether the religion is important", "the household income groups", "the party to support and vote for")
 b_matrix <- data.frame(names, types, number_categories, meanings)
 knitr::kable(b_matrix, caption = "Census Variables", col.names = c("names", "types", "type number", "meanings"), align = "lccl") 
+```
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.cap= "Census Data Visualization 1"}
+#make plot for the ages (group)
+bp1_census <- census_data %>% 
+        group_by(age) %>% 
+        ggplot(aes(y=age))+geom_bar(fill=1)+ggtitle("bar plot for ages")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the sex (group)
+bp2_census <- census_data %>% 
+        group_by(sex) %>% 
+        ggplot(aes(y=sex))+geom_bar(fill=2)+ggtitle("bar plot for sex")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the provinces (group)
+bp3_census <- census_data %>% 
+        group_by(province) %>% 
+        ggplot(aes(y=province))+geom_bar(fill=3)+ggtitle("bar plot for \n provinces")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the place_birth_canada (group)
+bp4_census <- census_data %>% 
+        group_by(place_birth_canada) %>% 
+        ggplot(aes(x=place_birth_canada))+geom_bar(fill=4)+ggtitle("bar plot for place_birth_canada")+theme(plot.title = element_text(hjust = 0.5))
+
+
+
+plot_grid(bp1_census, bp2_census, bp3_census, bp4_census, ncol=2, nrow=2)
+
+```
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.cap= "Census Data Visualization 2"}
+#make plot for the education (group)
+bp5_census <- census_data %>% 
+        group_by(education) %>% 
+        ggplot(aes(y=education))+geom_bar(fill=5)+ggtitle("bar chart plot \n education")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the religion_importance (group)
+bp6_census <- census_data %>% 
+        group_by(religion_importance) %>% 
+        ggplot(aes(x=religion_importance))+geom_bar(fill=6)+ggtitle("bar plot for religion_importance")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the income_family (group)
+bp7_census <- census_data %>% 
+        group_by(income_family) %>% 
+        ggplot(aes(y=income_family))+geom_bar(fill=7)+ggtitle("bar chart for income_family")+theme(plot.title = element_text(hjust = 0.5))
+
+plot_grid(bp5_census, bp6_census, bp7_census, ncol=2, nrow=2)
+```
+
+
+
+
+```{r, echo=FALSE, message=FALSE, fig.cap= "Survey Data Visualization (partial)"}
+#make plot for the ages (group)
+bp1_survey <- survey_data %>% 
+        group_by(age) %>% 
+        ggplot(aes(y=age))+geom_bar(fill=1)+ggtitle("bar chart for ages")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the sex (group)
+bp2_survey <- survey_data %>% 
+        group_by(sex) %>% 
+        ggplot(aes(y=sex))+geom_bar(fill=2)+ggtitle("bar chart for sex")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the provinces (group)
+bp3_survey <- survey_data %>% 
+        group_by(province) %>% 
+        ggplot(aes(y=province))+geom_bar(fill=3)+ggtitle("bar chart for \n provinces")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the place_birth_canada (group)
+bp4_survey <- survey_data %>% 
+        group_by(place_birth_canada) %>% 
+        ggplot(aes(x=place_birth_canada))+geom_bar(fill=4)+ggtitle("bar chart for place_birth_canada")+theme(plot.title = element_text(hjust = 0.5))
+
+
+
+plot_grid(bp1_survey, bp2_survey, bp3_survey, bp4_survey, ncol=2,nrow=2)
+
+```
+
+
+```{r, echo=FALSE, message=FALSE, fig.cap= "Survey Data Visualization (partial)"}
+#make plot for the education (group)
+bp5_survey <- survey_data %>% 
+        group_by(education) %>% 
+        ggplot(aes(y=education))+geom_bar(fill=5)+ggtitle("bar chart for \n education")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the religion_importance (group)
+bp6_survey <- survey_data %>% 
+        group_by(religion_importance) %>% 
+        ggplot(aes(x=religion_importance))+geom_bar(fill=6)+ggtitle("bar chart for religion_importance")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the income_family (group)
+bp7_survey <- survey_data %>% 
+        group_by(income_family) %>% 
+        ggplot(aes(y=income_family))+geom_bar(fill=7)+ggtitle("bar chart for \n income_family")+theme(plot.title = element_text(hjust = 0.5))
+
+#make plot for the income_family (group)
+bp8_survey <- survey_data %>% 
+        group_by(vote_party) %>% 
+        ggplot(aes(y=vote_party))+geom_bar(fill=8)+ggtitle("bar chart for vote_party")+theme(plot.title = element_text(hjust = 0.5))
+
+plot_grid(bp5_survey, bp6_survey, bp7_survey, bp8_survey, ncol=2,nrow=2)
 ```
 
 
