@@ -1,0 +1,1360 @@
+vote_party,age,sex,province,education,religion_importance,place_birth_canada,income_family,vote_liberal,vote_conservatives,vote_NDP,vote_bloc_québécois,vote_green,vote_people
+Bloc Québécois,older than 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Green Party,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Bloc Québécois,older than 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,younger than 30 years old,Male,Ontario,Not attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+People’s Party,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,British Columbia,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,British Columbia,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,British Columbia,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,British Columbia,Not attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,younger than 30 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Alberta,Not attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Alberta,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+NDP,younger than 30 years old,Male,Nova Scotia,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+People’s Party,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,0,1
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Liberal,older than 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,British Columbia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Green Party,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,older than 70 years old,Female,Alberta,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Not attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Quebec,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Bloc Québécois,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Liberal,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Liberal,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+People’s Party,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+People’s Party,50 - 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,0,1
+Conservatives,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Not attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Not attended university,Important religion,Born outside Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Not attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,younger than 30 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,British Columbia,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Not attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Green Party,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Liberal,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Not attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,younger than 30 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+NDP,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+NDP,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,younger than 30 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Newfoundland and Labrador,Not attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Liberal,30 - 50 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Prince Edward Island,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,younger than 30 years old,Male,New Brunswick,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Not attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+People’s Party,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,0,1
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Green Party,30 - 50 years old,Male,Prince Edward Island,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+People’s Party,30 - 50 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+Liberal,30 - 50 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Manitoba,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+People’s Party,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+People’s Party,30 - 50 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,0,1
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+People’s Party,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,0,1
+Green Party,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Nova Scotia,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Green Party,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Manitoba,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,older than 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Conservatives,younger than 30 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Alberta,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Liberal,older than 70 years old,Male,British Columbia,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Green Party,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,British Columbia,Not attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Green Party,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Green Party,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Green Party,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Green Party,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Green Party,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,British Columbia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,Manitoba,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Not attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Nova Scotia,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Green Party,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Prince Edward Island,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Bloc Québécois,older than 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Bloc Québécois,older than 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+NDP,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Bloc Québécois,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Liberal,older than 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,older than 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Bloc Québécois,older than 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+People’s Party,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,0,1
+Conservatives,50 - 70 years old,Male,Saskatchewan,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,Alberta,Not attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,Alberta,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Alberta,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Alberta,Not attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+People’s Party,older than 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,0,1
+NDP,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Green Party,30 - 50 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Alberta,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Manitoba,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,Manitoba,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Liberal,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Manitoba,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Manitoba,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,younger than 30 years old,Male,Manitoba,Not attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Manitoba,Not attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,New Brunswick,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,New Brunswick,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,New Brunswick,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,New Brunswick,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,New Brunswick,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,New Brunswick,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,older than 70 years old,Male,New Brunswick,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Conservatives,older than 70 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,New Brunswick,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,British Columbia,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,Alberta,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Green Party,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+People’s Party,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+Green Party,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+NDP,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Green Party,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,younger than 30 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,British Columbia,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,1,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Prince Edward Island,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Green Party,30 - 50 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Green Party,30 - 50 years old,Female,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Not attended university,Not important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,younger than 30 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Newfoundland and Labrador,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+NDP,older than 70 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Newfoundland and Labrador,Not attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Newfoundland and Labrador,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Green Party,older than 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,0,0,1,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+NDP,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Green Party,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+People’s Party,30 - 50 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,0,0,1
+Conservatives,30 - 50 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+Liberal,30 - 50 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+NDP,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Quebec,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Green Party,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$75,000 to $99,999",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Green Party,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Green Party,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+NDP,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Conservatives,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"Less than $25,000",0,0,0,1,0,0
+Liberal,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Quebec,Not attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Green Party,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+NDP,younger than 30 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+People’s Party,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+NDP,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Alberta,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,Manitoba,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Manitoba,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Male,Manitoba,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Alberta,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Alberta,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born outside Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Green Party,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,British Columbia,Not attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,older than 70 years old,Female,British Columbia,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Green Party,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,1,0
+Liberal,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Manitoba,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Manitoba,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,New Brunswick,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Newfoundland and Labrador,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+NDP,50 - 70 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Nova Scotia,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+People’s Party,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,older than 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,younger than 30 years old,Male,Prince Edward Island,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Green Party,older than 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,30 - 50 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Bloc Québécois,younger than 30 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Liberal,older than 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Liberal,50 - 70 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,older than 70 years old,Male,Saskatchewan,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+People’s Party,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,0,0,0,0,1
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,younger than 30 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,younger than 30 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+NDP,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,1,0,0
+Green Party,30 - 50 years old,Female,Quebec,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Bloc Québécois,older than 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Liberal,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"Less than $25,000",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Not attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,1,0,0
+People’s Party,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",0,0,0,0,0,1
+Liberal,younger than 30 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"Less than $25,000",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Quebec,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Bloc Québécois,30 - 50 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,0,1,0,0
+Conservatives,younger than 30 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Bloc Québécois,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,0,1,0,0
+Bloc Québécois,50 - 70 years old,Male,Quebec,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,0,0,1,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Quebec,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Nova Scotia,Attended university,Not important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+Liberal,older than 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+NDP,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Green Party,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Conservatives,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Not attended university,Important religion,Born outside Canada,"Less than $25,000",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",0,1,0,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Not important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,30 - 50 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,50 - 70 years old,Male,New Brunswick,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+NDP,younger than 30 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,younger than 30 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Male,Ontario,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+NDP,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",0,0,1,0,0,0
+Liberal,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Ontario,Attended university,Important religion,Born outside Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,30 - 50 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Alberta,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+NDP,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$25,000 to $49,999",0,0,1,0,0,0
+NDP,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,1,0,0,0
+NDP,older than 70 years old,Male,British Columbia,Not attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,0,1,0,0,0
+NDP,older than 70 years old,Female,British Columbia,Not attended university,Not important religion,Born outside Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$125,000 and more",1,0,0,0,0,0
+Green Party,older than 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,0,0,0,1,0
+Liberal,older than 70 years old,Male,Ontario,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,older than 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Male,Prince Edward Island,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Prince Edward Island,Attended university,Not important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Liberal,older than 70 years old,Male,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Green Party,older than 70 years old,Female,Prince Edward Island,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,0,0,0,1,0
+NDP,50 - 70 years old,Female,Quebec,Attended university,Not important religion,Born in Canada,"Less than $25,000",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Male,Quebec,Attended university,Important religion,Born outside Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Liberal,50 - 70 years old,Female,Quebec,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Male,Quebec,Not attended university,Not important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,50 - 70 years old,Male,Saskatchewan,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+Conservatives,30 - 50 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Green Party,50 - 70 years old,Female,Saskatchewan,Attended university,Important religion,Born in Canada,"$125,000 and more",0,0,0,0,1,0
+Conservatives,50 - 70 years old,Female,Saskatchewan,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Conservatives,30 - 50 years old,Male,Nova Scotia,Not attended university,Important religion,Born in Canada,"$50,000 to $74,999",0,1,0,0,0,0
+Liberal,30 - 50 years old,Female,Nova Scotia,Attended university,Important religion,Born in Canada,"$50,000 to $74,999",1,0,0,0,0,0
+People’s Party,30 - 50 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$125,000 and more",0,0,0,0,0,1
+NDP,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+NDP,30 - 50 years old,Male,British Columbia,Attended university,Not important religion,Born outside Canada,"$125,000 and more",0,0,1,0,0,0
+Conservatives,50 - 70 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$125,000 and more",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",0,1,0,0,0,0
+Conservatives,older than 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,older than 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
+People’s Party,older than 70 years old,Male,British Columbia,Not attended university,Important religion,Born in Canada,"Less than $25,000",0,0,0,0,0,1
+Conservatives,30 - 50 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born in Canada,"$25,000 to $49,999",0,1,0,0,0,0
+NDP,younger than 30 years old,Male,British Columbia,Attended university,Important religion,Born outside Canada,"$25,000 to $49,999",0,0,1,0,0,0
+Liberal,older than 70 years old,Male,British Columbia,Attended university,Not important religion,Born in Canada,"$75,000 to $99,999",1,0,0,0,0,0
+Conservatives,50 - 70 years old,Female,British Columbia,Attended university,Important religion,Born outside Canada,"$100,000 to $ 124,999",0,1,0,0,0,0
+NDP,older than 70 years old,Female,British Columbia,Attended university,Not important religion,Born outside Canada,"$100,000 to $ 124,999",0,0,1,0,0,0
